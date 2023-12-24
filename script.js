@@ -1,5 +1,5 @@
 //your JS code here. If required.
-functionName(name){
+functionName(){
 	console.log(functionName);
 }
 alert("functionName");
