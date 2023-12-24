@@ -2,4 +2,4 @@
 function (name){
 	console.log(name);
 }
-alert("function")
+alert("function");
